@@ -1,2 +1,4 @@
 *.csv
 source_json
+case_json/
+dept_json/
